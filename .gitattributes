@@ -1,0 +1,2 @@
+# LFS track binary files
+*.{gif,jpg,jpeg,png,svg} filter=lfs diff=lfs merge=lfs -text
